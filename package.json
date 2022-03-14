@@ -1,0 +1,44 @@
+{
+  "name": "test",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.3.1",
+    "@mui/material": "^5.3.1",
+    "@mui/styles": "^5.3.0",
+    "@mui/system": "^5.4.0",
+    "axios": "^0.25.0",
+    "clsx": "^1.1.1",
+    "compressorjs": "^1.1.1",
+    "immer": "^9.0.12",
+    "next": "12.0.8",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-imgpro": "^1.4.1",
+    "react-jimp": "^1.1.7",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "sass": "^1.49.0",
+    "swiper": "^7.4.1"
+  },
+  "devDependencies": {
+    "@emotion/cache": "^11.7.1",
+    "@emotion/server": "^11.4.0",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "google-map-react": "^2.1.10",
+    "next-images": "^1.8.4",
+    "prop-types": "^15.8.1",
+    "sitemap": "^7.1.1"
+  }
+}
